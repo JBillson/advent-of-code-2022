@@ -1,4 +1,5 @@
-﻿class Program{
+﻿namespace day3;
+class Program{
 
     static List<string> _input = new List<string>();
 

@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace day2;
+﻿namespace day2;
 public class Program{
     private static List<string> _input = new();
     private static int _totalScore;
